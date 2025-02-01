@@ -43,6 +43,9 @@
         fill: #a12c2c;
       }
 
+      .quads {
+        fill: #a12c2c;
+      }
       .adductors-abductors-front {
         fill: #a12c2c;
       }
@@ -55,14 +58,15 @@
       .pecs {
         fill: #a12c2c;
       }
+      .front-side-delts {
+        fill: #a12c2c;
+      }
       .biceps {
         fill: #a12c2c;
       }
       .forearms-top {
         fill: #a12c2c;
       }
-
-
     </style>
   </defs>
   <g id="Body_Fill" data-name="Body Fill">
@@ -122,7 +126,7 @@
   <g id="Anterior_View_Muscles" data-name="Anterior View Muscles">
     <g id="Quads">
       <path class="quads" d="M151.01,315.88c-6.67-4.85-9.59-16.75-18.25-18.34-11.91,16.35-11.95,61.87-7.36,91.02,7.05,35.76,27.7,43.43,40.36,11.13,6.51-28.6,9.9-63.83-14.75-83.81Z"/>
-      <path class="cls-1" d="M228.64,315.88c6.67-4.85,9.59-16.75,18.25-18.34,11.74,15.86,11.67,59.67,7.83,88.67-2.44,15.9-12.22,34.11-19.42,34.28-9.66.44-21.62-13.84-22.36-25.08-5.97-26.74-7.24-61.81,15.7-79.53Z"/>
+      <path class="quads" d="M228.64,315.88c6.67-4.85,9.59-16.75,18.25-18.34,11.74,15.86,11.67,59.67,7.83,88.67-2.44,15.9-12.22,34.11-19.42,34.28-9.66.44-21.62-13.84-22.36-25.08-5.97-26.74-7.24-61.81,15.7-79.53Z"/>
     </g>
     <g id="Adductors_Abductors" data-name="Adductors/Abductors">
       <g>
